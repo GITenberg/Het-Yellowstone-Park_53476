@@ -1,5 +1,5 @@
 _repo: Het-Yellowstone-Park_53476
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   photographer:
     agent_name: Hovey, Edmund Otis
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1924
     gutenberg_agent_id: '48429'
     url: http://www.gutenberg.org/2009/agents/48429
+covers:
+- cover_type: archival
+  image_path: 53476-h/images/new-cover-tn.jpg
 creator:
   author:
     agent_name: Vries, Hugo de
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2388
     wikipedia: http://en.wikipedia.org/wiki/Hugo_de_Vries
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53476#Het-Yellowstone-Park
 gutenberg_issued: '2016-11-07'
 gutenberg_type: Text
 identifiers:
