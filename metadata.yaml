@@ -1,0 +1,40 @@
+_repo: Het-Yellowstone-Park_53476
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Hovey, Edmund Otis
+    aliases:
+    - Hovey, E. O. (Edmund Otis)
+    - Hovey, Edmond Otis
+    birthdate: 1862
+    deathdate: 1924
+    gutenberg_agent_id: '48429'
+    url: http://www.gutenberg.org/2009/agents/48429
+creator:
+  author:
+    agent_name: Vries, Hugo de
+    aliases:
+    - De Vries, Hugo
+    - DeVries, Hugo
+    birthdate: 1848
+    deathdate: 1935
+    gutenberg_agent_id: '2388'
+    url: http://www.gutenberg.org/2009/agents/2388
+    wikipedia: http://en.wikipedia.org/wiki/Hugo_de_Vries
+description: ''
+gutenberg_issued: '2016-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53476'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Yellowstone National Park'
+- !lcsh 'Evolution'
+- !lcsh 'Natural history -- Yellowstone National Park'
+- GITenberg
+title: Het Yellowstone-Park
+url: http://www.gutenberg.org/ebooks/53476
